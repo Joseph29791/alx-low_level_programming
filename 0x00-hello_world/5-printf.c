@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * main - this print grammar but outcome ia an art
+ * main - this print grammar but outcome is an art
  *
  * Return: 0 when successful
  */
